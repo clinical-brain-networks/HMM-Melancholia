@@ -1,0 +1,26 @@
+State_3 to State_1. Test stat: 1.47
+State_5 to State_1. Test stat: 2.97
+State_9 to State_1. Test stat: 1.54
+State_4 to State_2. Test stat: 2.12
+State_5 to State_2. Test stat: 0.97
+State_6 to State_2. Test stat: 1.25
+State_7 to State_2. Test stat: 1.52
+State_10 to State_3. Test stat: 2.22
+State_2 to State_4. Test stat: 1.42
+State_6 to State_5. Test stat: 1.15
+State_8 to State_5. Test stat: 1.46
+State_10 to State_5. Test stat: 1.24
+State_3 to State_6. Test stat: 1.18
+State_5 to State_6. Test stat: 1.49
+State_2 to State_7. Test stat: 1.15
+State_6 to State_7. Test stat: 2.51
+State_8 to State_7. Test stat: 0.95
+State_9 to State_8. Test stat: 1.08
+State_4 to State_9. Test stat: 1.97
+State_8 to State_9. Test stat: 1.92
+State_10 to State_9. Test stat: 1.85
+State_1 to State_10. Test stat: 1.53
+State_2 to State_10. Test stat: 1.95
+State_7 to State_10. Test stat: 1.41
+State_9 to State_10. Test stat: 1.25
+****************************

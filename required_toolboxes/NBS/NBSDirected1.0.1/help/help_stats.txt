@@ -1,0 +1,25 @@
+Specify the general linear model (GLM) that will be fitted to each connection in the network. Examples of statistical designs with the GLM are provided below.
+
+DESIGN MATRIX:
+The design matrix is used to specify the GLM and can be given either as a: 
+1. Valid Matlab expression (type the expression)
+2. Text file (*.txt)
+3. Matlab file (*.mat) containing a single variable 
+The design matrix should contain a column of ones (intercept term), if desired. Each column represents an independent variable (predictor) and each row represents a subject or observation. The independent variables can model both tested effects and nuisance covariates. 
+
+CONTRAST:
+The contrast is used to specify the hypothesis that will be tested and for which a p-value will be estimated. The contrast is given as a valid Matlab expression for a vector that must be the same length as the number of columns in the design matrix.
+
+THRESHOLD:
+Specify a threshold value for the primary test statistics. Choosing an appropriate threshold is a process of trial and error.
+
+You can use a single threshold value such as 2.5. If the result shows a significant result, the viewer opens and shows you the significant network.
+
+You can also specify a range of thresholds such as [0.1,0.1,3.0] . In the example, the tool goes through all thresholds between 0.1 and 3.0 in steps of 0.1.
+The significant results are saved in the "Result" folder. See manual for more information
+
+ 
+STATISTICAL TEST:
+Specify the desired statistical test from the menu.   
+
+	

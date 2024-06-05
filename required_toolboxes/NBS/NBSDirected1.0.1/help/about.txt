@@ -1,0 +1,19 @@
+Directed NBS (dNBS) is a software package designed for testing hypotheses about the human connectome. It is made freely available to the neuroimaging community under the GNU General Public Licence. 
+
+dNBS takes as input a series of directed connectivity matrices from different cohorts, or from the same subject during different experimental conditions. The directed connectivity matrices are typically derived from neuroimaging data processed with other software packages. The user specifies the hypothesis to be tested at every connection with the general linear model. One technique can be selected to test significance and identify specific connections/subnetworks for which the null hypothesis can be rejected:
+
+1. DIRECTED NETWORK-BASED STATISTIC
+
+dNBS is inspired by the Matlab code from Matt Hyett (https://www.nitrc.org/forum/message.php?msg_id=21080) provided by Prof. Dr. Andrew Zalesky and the Graphical UI of NBS1.2 Copyright(C)2012
+The algorithms implemented in this software package were developed by Ed Bullmore, Luca Cocchi, Alex Fornito and Andrew Zalesky.
+
+The Graphical UI and the integration of the Matlab code for dNBS is provided by von Gellhorn  Maximilian.
+
+dNBS is a collection of MATLAB functions. MATLAB is a commercial computing environment developed by MathWorks. dNBS does not require any special MATLAB toolboxes or functions.  
+
+Please send queries, feedback and bug reports to the dNBS Forum on http://www.nitrc.org 
+
+Please acknowledge the use of this software package by mentioning dNBS v1.0. Refer to the software as 
+“von Gellhorn,M., Hyett,M., Zalesky,A. (2020) Directed NBS (dNBS), v1.0 Software available at http://www.nitrc.org "
+
+	

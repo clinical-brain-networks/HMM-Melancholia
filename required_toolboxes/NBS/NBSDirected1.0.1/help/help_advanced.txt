@@ -1,0 +1,13 @@
+PERMUTATIONS:
+Specify the number of permutations to generate. At least 5,000 permutations should be generated.  
+
+SIGNIFICANCE:
+Specify significance (alpha threshold)
+
+METHOD:
+Select a method to correct for multiple comparisons. Note only NBS is available as part of v1.0. 
+
+COMPONENT SIZE:
+Use the menu to specify whether the size of a network component is measured based on its total number of connections (extent) or the sum over the test statistic values (minus the primary threshold) of each connection in the component (intensity). 
+
+	

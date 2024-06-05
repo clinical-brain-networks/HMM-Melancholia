@@ -1,0 +1,17 @@
+State_8 to State_1. Test stat: 1.74
+State_10 to State_1. Test stat: 1.79
+State_5 to State_3. Test stat: 1.85
+State_8 to State_3. Test stat: 1.27
+State_9 to State_3. Test stat: 1.24
+State_1 to State_4. Test stat: 1.72
+State_5 to State_4. Test stat: 1.67
+State_7 to State_4. Test stat: 2.03
+State_10 to State_4. Test stat: 1.61
+State_6 to State_5. Test stat: 1.23
+State_10 to State_5. Test stat: 1.63
+State_1 to State_6. Test stat: 1.38
+State_1 to State_7. Test stat: 1.42
+State_4 to State_7. Test stat: 2.05
+State_5 to State_7. Test stat: 1.31
+State_9 to State_7. Test stat: 2.12
+****************************
